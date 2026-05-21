@@ -3928,6 +3928,36 @@
     "os": ""
   },
   {
+    "name": "Dynacat",
+    "slug": "dynacat",
+    "desc": "Dynacat is a lightweight self-hosted dashboard focused on dynamic updates and easy integration with external services.",
+    "script": "ct/dynacat.sh",
+    "script_url": "https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/ct/dynacat.sh",
+    "script_url_mirror": "https://git.community-scripts.org/community-scripts/ProxmoxVE/raw/branch/main/ct/dynacat.sh",
+    "type": "lxc",
+    "type_id": "nm9bra8mzye2scg",
+    "categories": [
+      "scriptcat00010"
+    ],
+    "category_names": [
+      "Dashboards & Frontends"
+    ],
+    "notes": [],
+    "port": 8080,
+    "website": "https://github.com/Panonim/dynacat",
+    "documentation": "https://dynacat.artur.zone/",
+    "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/dynacat.webp",
+    "updateable": true,
+    "privileged": false,
+    "has_arm": false,
+    "is_dev": true,
+    "execute_in": [
+      "lxc"
+    ],
+    "config_path": "",
+    "os": ""
+  },
+  {
     "name": "ebusd",
     "slug": "ebusd",
     "desc": "ebusd is a daemon for handling communication with eBUS devices connected to a 2-wire `energy bus` used by numerous heating systems.",
