@@ -7666,7 +7666,7 @@
     "notes": [],
     "port": 443,
     "website": "https://www.kasmweb.com/",
-    "documentation": "https://www.kasmweb.com/docs/",
+    "documentation": "https://docs.kasm.com/docs",
     "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/kasm-workspaces.webp",
     "updateable": true,
     "privileged": true,
